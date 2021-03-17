@@ -85,4 +85,5 @@ console.log(cochesMaped);
 console.log("pene");
 console.log("pene");
 console.log("vajaina");
+console.log("pene tripode");
 
