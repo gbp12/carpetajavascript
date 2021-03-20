@@ -78,6 +78,14 @@ var cochesMaped = coches.map(function(marcas) {
     return marcas.marca
 });
 
+console.log(cochesMaped);
 
 
 
+
+var lista = ["casa", "coche0", "silla"];
+
+for ( x in lista) {
+    console.log(lista[x]);
+        
+    }
